@@ -9,3 +9,5 @@ The visual database design of the Social Network System Database is shown below.
 
 ![Social Network System Database](https://github.com/tutorials24x7/social-network-system-database-mysql/blob/main/tutorials24x7-mysql-social-network-database-design.png "Social Network System")
 
+https://mysql.tutorials24x7.com/blog/guide-to-design-database-for-social-network-system-in-mysql
+
